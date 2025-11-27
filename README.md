@@ -1,4 +1,4 @@
-#### This repository contains the Lab materials and files for the Algorithms (CSE221) of the Spring 2024 semester. The files are written on Python though the logic is same for all language.
+#### This repository contains the Lab materials and files for the course - Algorithms (CSE221) of the Spring 2024 semester. The files are written on Python though the logic is same for all language.
 
 ## Plagarism Alert 
 
